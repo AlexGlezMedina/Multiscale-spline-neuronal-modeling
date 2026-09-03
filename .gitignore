@@ -1,0 +1,10 @@
+# Automatically generated output directories
+*_output_*/
+
+# MATLAB autosave and temporary files
+*.asv
+*.m~
+
+# Operating-system metadata
+.DS_Store
+Thumbs.db
