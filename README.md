@@ -398,8 +398,6 @@ The Tikhonov parameter used in these experiments is very small (`1e-16`) and act
 
 If you use this code in academic work, please cite the associated manuscript.
 
-A complete bibliographic entry and DOI can be added here after publication.
-
 ---
 
 ## Contact
